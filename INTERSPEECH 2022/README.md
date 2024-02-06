@@ -5,5 +5,7 @@ This folder contains the full manuscript of the proceedings presented at INTERSP
 For further information or enquiries, please contact Fareeha Rana at fareehasrana@gmail.com.
 
 References
+
 [1]	P. Birkholz, “Perceptual Optimization of an Enhanced Geometric Vocal Fold Model for Articulatory Speech Synthesis,” in Proceedings INTERSPEECH 2019, pp. 3765-3769, 2019.
+
 [2]	P. Boersma, and Dr. Weenink, “Praat: Doing Phonetics by Computer (6.0.18) [Computer Software].” 2019.
